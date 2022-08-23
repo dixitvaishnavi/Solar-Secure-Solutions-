@@ -1,0 +1,24 @@
+body{
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+}
+.col-md-6{
+    margin-top: 150px !important;
+   
+    background-image: radial-gradient(circle 248px at center, #16d9e3 0%, #30c7ec 47%, #46aef7 100%);
+}
+input[type=button]
+{
+    width: 100px;
+    background-color: floralwhite;
+    color: rgb(106, 15, 241);
+    font-weight: bolder;
+    border: 3px solid black;
+}
+input[type=text]{
+    width: 100%;
+
+}
+h1{
+    font-weight: bolder !important;
+    margin-top: 15px;
+}
